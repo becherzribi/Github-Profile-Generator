@@ -1,11 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',  // Enables static export of your app
   reactStrictMode: true,
-  output: 'export', 
   images: {
-    domains: ["github.com"],
+    unoptimized: true,  // Disables image optimization, necessary for static export
   },
-}
+  trailingSlash: true, // Ensure trailing slashes are added to URLs, important for static hosting
+};
 
-module.exports = nextConfig
-
+module.exports = nextConfig;
