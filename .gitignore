@@ -25,3 +25,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.vscode/ 
+.idea/ 
+*.log 
+.env.local 
+.env.development 
+.env.production 
+.gitmodules
+*.bak
+*.tmp 
