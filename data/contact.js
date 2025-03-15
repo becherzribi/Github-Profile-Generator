@@ -6,9 +6,9 @@ export const contact = {
 }
 
 export const languages = [
-  { name: "Arabic", level: "Native", proficiency: 100, flag: "🇹🇳" },
-  { name: "English", level: "Advanced", proficiency: 85, flag: "🇬🇧" },
-  { name: "French", level: "Intermediate", proficiency: 65, flag: "🇫🇷" },
-  { name: "German", level: "Beginner", proficiency: 30, flag: "🇩🇪" },
+  { name: "Arabic", level: "Native", proficiency: 100 },
+  { name: "English", level: "Advanced", proficiency: 85},
+  { name: "French", level: "Intermediate", proficiency: 65},
+  { name: "German", level: "Beginner", proficiency: 30},
 ]
 
