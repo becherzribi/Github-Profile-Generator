@@ -6,7 +6,7 @@ export const projects = [
     status: "Completed",
     tags: ["Java", "OOP", "Data Analysis", "JFreeChart", "Machine Learning"],
     link: "#", // Placeholder link
-    github: "https://github.com/YOUR_USERNAME/marketing-mix-model", // Add GitHub repo link
+    github: "https://github.com/becherzribi/Marketing-Mix-Modeling-Dashboard", // Add GitHub repo link
   },
   {
     title: "RESTful API Development with Flask",
@@ -15,7 +15,7 @@ export const projects = [
     status: "Completed",
     tags: ["Flask", "REST API", "JWT", "SQLAlchemy", "Redis"],
     link: "#",
-    github: "https://github.com/YOUR_USERNAME/flask-rest-api", // Add GitHub repo link
+    github: "https://github.com/becherzribi/Tunisian-Fantasy-API", // Add GitHub repo link
   },
   
   {
@@ -25,7 +25,7 @@ export const projects = [
     status: "Completed",
     tags: ["Python", "OpenCV", "Facial Recognition", "Machine Learning"],
     link: "#",
-    github: "https://github.com/YOUR_USERNAME/facial-recognition-attendance", // Add GitHub repo link
+    github: "https://github.com/becherzribi/Attendance-Management-system-using-face-recognition", // Add GitHub repo link
   },
   {
     title: "Department Store Analysis",
@@ -34,7 +34,7 @@ export const projects = [
     status: "Completed",
     tags: ["ETL", "Power BI", "Data Cleaning", "Dashboards"],
     link: "#",
-    github: "https://github.com/YOUR_USERNAME/department-store-analysis", // Add GitHub repo link
+    github: "https://github.com/becherzribi/Department-Store-Analysis", // Add GitHub repo link
   },
 ]
 
