@@ -1,45 +1,33 @@
 export const skillCategories = [
   {
-    name: "Data Science & Programming",
+    name: "Data Science & Visualization",
     skills: [
-      { name: "Python", level: 90 },
-      { name: "Pandas", level: 85 },
-      { name: "NumPy", level: 80 },
-      { name: "Scikit-Learn", level: 75 },
-      { name: "TensorFlow", level: 70 },
-      { name: "PyTorch", level: 65 },
-      { name: "SQL", level: 80 },
-      { name: "MongoDB", level: 70 },
+      { name: "Python (Pandas, NumPy)", level: 90 },
+      { name: "SQL & MongoDB",            level: 85 },
+      { name: "Data Cleaning & EDA",       level: 85 },
+      { name: "Power BI & Excel",          level: 80 },
+      { name: "Matplotlib & Seaborn",      level: 75 },
     ],
   },
   {
-    name: "Data Analysis & Visualization",
+    name: "Machine Learning & LLMs",
     skills: [
-      { name: "Excel", level: 90 },
-      { name: "Power BI", level: 85 },
-      { name: "Google Sheets", level: 80 },
-      { name: "Data Cleaning", level: 85 },
-      { name: "Statistical Analysis", level: 80 },
+      { name: "Scikit-Learn",                   level: 85 },
+      { name: "TensorFlow & PyTorch",           level: 80 },
+      { name: "Deep Learning (CNNs, RNNs)",     level: 70 },
+      { name: "Hugging Face Transformers",      level: 75 },
+      { name: "Prompt Engineering",             level: 80 },
+      { name: "Model Evaluation & Tuning",      level: 85 },
     ],
   },
   {
-    name: "Machine Learning",
+    name: "APIs, Deployment & Engineering",
     skills: [
-      { name: "Supervised Learning", level: 80 },
-      { name: "Unsupervised Learning", level: 75 },
-      { name: "Deep Learning", level: 70 },
-      { name: "Model Evaluation", level: 80 },
+      { name: "FastAPI & Flask",                level: 90 },
+      { name: "Docker & Kubernetes",            level: 70 },
+      { name: "Azure Cognitive Services",       level: 75 },
+      { name: "CI/CD (GitHub Actions)",         level: 80 },
+      { name: "Vector Search (FAISS)",          level: 70 },
     ],
   },
-  {
-    name: "Web Development & APIs",
-    skills: [
-      { name: "Flask", level: 75 },
-      { name: "Docker", level: 70 },
-      { name: "Swagger", level: 65 },
-      { name: "NodeJS", level: 60 },
-      { name: "Java", level: 65 },
-    ],
-  },
-]
-
+];
