@@ -187,9 +187,12 @@ export function Contact() {
 
           <div className="flex justify-center mt-6">
             <a
-              href="/Becher_Zribi_Resume.pdf"
-              download="Becher_Zribi_Resume.pdf"
-              className="inline-flex items-center justify-center bg-gradient-to-r from-theme-primary via-theme-secondary to-theme-accent hover:opacity-90 text-white font-medium px-6 py-2 h-auto shadow-lg hover:shadow-glow transition-all duration-300 rounded-md"
+              href="/Zribi_Becher_Resume.pdf"
+              download
+              className="inline-flex items-center justify-center 
+               bg-gradient-to-r from-theme-primary via-theme-secondary to-theme-accent 
+               hover:opacity-90 text-white font-medium px-6 py-2 shadow-lg 
+               transition-all duration-300 rounded-md"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
