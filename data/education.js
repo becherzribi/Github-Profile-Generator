@@ -26,5 +26,7 @@ export const certifications = [
   "Machine Learning Fundamentals — DataCamp",
   "Power BI Fundamentals — DataCamp",
   "AI Fundamentals — DataCamp",
+  "GitHub & Git Fundamentals — Datacamp",
+  "Building APIs in Python — Datacamp",
 ]
 
